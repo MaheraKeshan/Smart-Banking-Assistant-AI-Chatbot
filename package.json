@@ -1,0 +1,28 @@
+{
+  "name": "ai-banking-chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.11",
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "better-sqlite3": "^9.4.3",
+    "next": "^16.2.1",
+    "postcss": "^8.5.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.8",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
